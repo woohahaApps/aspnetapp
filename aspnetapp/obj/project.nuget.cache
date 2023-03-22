@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "COmh3QyKwj/voAd65OOecbgVzYL+gvOtxVJrM0qD1YDPaZsUOwOvoJC97VwHaHRI/+Ha0r9gx3QoslgEyciw5A==",
+  "success": true,
+  "projectFilePath": "D:\\_MyProject\\dotnet-docker\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\woohaha\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-musl-x64\\7.0.4\\microsoft.netcore.app.runtime.linux-musl-x64.7.0.4.nupkg.sha512",
+    "C:\\Users\\woohaha\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-musl-x64\\7.0.4\\microsoft.aspnetcore.app.runtime.linux-musl-x64.7.0.4.nupkg.sha512",
+    "C:\\Users\\woohaha\\.nuget\\packages\\microsoft.netcore.app.host.linux-musl-x64\\7.0.4\\microsoft.netcore.app.host.linux-musl-x64.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
